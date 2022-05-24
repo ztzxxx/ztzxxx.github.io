@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(196, 195, 195);
+
+}
+/* *{
+    border: 1px solid black;
+
+} */
+.flex{
+    display: flex;
+}
+.baiSe{
+    background-color: white;
+}
+.flex1{
+    flex: 1;
+}
+.column{
+    flex-direction: column;
+}
+.mg8{
+    margin: 8px;
+}
+.mgr8{
+    margin-right: 8px;
+}
+.mgt8{
+    margin-top: 8px;
+}
